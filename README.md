@@ -3,7 +3,7 @@
 
 ## About Me
 
-👋 Hi there! I'm Ohmprakaash, a dedicated data analytics professional and Junior Generative AI Engineer with 1.5 years of industry experience. My passion lies in leveraging data-driven insights and cutting-edge AI technologies to solve real-world problems.
+👋 Hi there! I'm Ohmprakaash, a dedicated data analytics professional and Junior Generative AI Engineer with 2.6 years of industry experience. My passion lies in leveraging data-driven insights and cutting-edge AI technologies to solve real-world problems.
 
 ### Experience & Skills
 
